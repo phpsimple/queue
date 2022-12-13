@@ -7,6 +7,8 @@
 <p align="center">Very simple FIFO queue implementation</p>
 
 [![Test Coverage](https://api.codeclimate.com/v1/badges/9487615798456eafda6c/test_coverage)](https://codeclimate.com/github/phpsimple/queue/test_coverage)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/phpsimple/queue/badges/quality-score.png?b=simple)](https://scrutinizer-ci.com/g/phpsimple/queue/?branch=simple)
+[![Build Status](https://scrutinizer-ci.com/g/phpsimple/queue/badges/build.png?b=simple)](https://scrutinizer-ci.com/g/phpsimple/queue/build-status/simple)
 
 ---
 
