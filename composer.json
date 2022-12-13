@@ -24,7 +24,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Phpsimple\\": "src/"
+            "PhpSimple\\": "src/"
         }
     },
     "autoload-dev": {
