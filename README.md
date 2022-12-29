@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/phpsimple"><img src="https://avatars.githubusercontent.com/u/120518417?s=84&v=4"></a><br>
+  <a href="https://github.com/phpsimple"><img src="https://avatars.githubusercontent.com/u/121589032?v=4&s=84"></a><br>
 </p>
 
 <h1 align="center">Queue</h1>
