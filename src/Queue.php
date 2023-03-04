@@ -10,11 +10,11 @@ use function current;
 use function in_array;
 
 /**
- * @template Q
+ * @template T
  */
 final class Queue implements Countable
 {
-    public function __construct(/** @var array<Q> */ private array $items = [])
+    public function __construct(/** @var array<T> */ private array $items = [])
     {
     }
 
